@@ -1,2 +1,2 @@
-# library-system-crud
-Basic CRUD for a Library System. Basic search by ISBN 
+# Library System - Basic CRUD
+Basic CRUD for a Library System. Search a book by its ISBN 
